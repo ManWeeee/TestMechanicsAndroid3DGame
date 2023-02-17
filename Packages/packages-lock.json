@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< Updated upstream
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -30,6 +31,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.collab-proxy": {
       "version": "1.17.2",
       "depth": 0,
@@ -39,6 +42,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -46,6 +50,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -53,6 +59,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.feature.development": {
       "version": "1.0.1",
       "depth": 0,
@@ -67,6 +74,8 @@
         "com.unity.testtools.codecoverage": "1.0.1"
       }
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.ide.rider": {
       "version": "3.0.15",
       "depth": 0,
@@ -99,6 +108,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.performance.profile-analyzer": {
       "version": "1.1.1",
       "depth": 1,
@@ -131,6 +141,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.services.core": {
       "version": "1.4.2",
       "depth": 1,
@@ -142,6 +154,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 2,
@@ -149,6 +162,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.test-framework": {
       "version": "1.1.31",
       "depth": 0,
@@ -160,6 +175,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.testtools.codecoverage": {
       "version": "1.0.1",
       "depth": 1,
@@ -170,6 +186,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.textmeshpro": {
       "version": "3.0.6",
       "depth": 0,
@@ -210,6 +228,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.10",
       "depth": 0,
@@ -220,6 +239,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
